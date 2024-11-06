@@ -1,6 +1,6 @@
 **[Terraformia](https://github.com/gitcomit8/Terraformia)** ![GitHub Repo License Badge](https://img.shields.io/github/license/gitcomit8/Terraformia)] - Open Source Procedural Website Builder
 
-![Terraformia Logo](logo.png)
+![Terraformia Logo](logo.jpeg)
 
 ## 🌱 About Terraformia
 A seed-based procedural website builder that unlocks endless design possibilities with every click. Customize, export, and share your creations while collaborating openly on this open-source project.
