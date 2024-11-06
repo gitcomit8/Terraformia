@@ -1,12 +1,3 @@
-**GitHub Repository Name:** Terraformia
-
-**Three-line Description:**
-*Procedurally generated website builder powered by seed-based algorithms*
-*Unleash endless possibilities with every click – design, customize, export & share*
-*Open-source collaboration: Contribute, experiment, and expand together*
-
----
-
 **[Terraformia](https://github.com/gitcomit8/Terraformia)** ![GitHub Repo License Badge](https://img.shields.io/github/license/gitcomit8/Terraformia)] - Open Source Procedural Website Builder
 
 ![Terraformia Logo](logo.png)
